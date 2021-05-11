@@ -1,0 +1,14 @@
+CS151 Lecture
+Thu, Jan 23 2020 12:00 14:00
+CS157C Lecture
+Mon, Jan 27 2020 12:00 14:00
+Interview at BigCorp 
+Mon, Sep 28 2020 12:00 14:00
+Dentist appt
+Sat, Oct 3 2020 12:00 14:00
+Course Committee Meeting
+Mon, Jan 27 2020 12:00 14:00
+event 2
+Sat, Oct 3 2020 12:00 14:00
+event 3
+Sat, Oct 3 2020 12:00 14:00
